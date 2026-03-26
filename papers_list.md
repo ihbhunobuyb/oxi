@@ -97,4 +97,48 @@
 
 ---
 
+## 2026-03-27 精选论文
+
+### Paper 1: Spatiotemporal regulation of acute wound healing by the NLRP3 inflammasome
+- **PMID**: 41878559
+- **期刊**: Burns & Trauma (2026)
+- **相关性**: ⭐⭐⭐⭐⭐
+- **关键词**: NLRP3, macrophage, fibroblast, wound healing, IL-1β, ROS
+- **文档**: papers/2026-03-27_01_NLRP3_wound.md
+- **主要发现**: NLRP3在伤口愈合中发挥双阶段调控作用：炎症期促进趋化因子介导的巨噬细胞/成纤维细胞募集和M1极化，抑制成纤维细胞介导的修复；修复期NLRP3缺失增强Wnt/Notch信号，促进结构修复。NLRP3还通过ROS依赖机制独立调节成纤维细胞表型。
+
+### Paper 2: Metal-phenolic nanoparticles with ROS/pH dual-responsiveness for liver fibrosis therapy
+- **PMID**: 41819037
+- **期刊**: Colloids Surf B Biointerfaces (2026)
+- **相关性**: ⭐⭐⭐⭐⭐
+- **关键词**: ROS, nanoparticle, liver fibrosis, metabolic reprogramming, HSC, CD44
+- **文档**: papers/2026-03-27_02_ROS_nanoparticle_liver.md
+- **主要发现**: 设计了ROS/pH双响应纳米系统CPT@EZ@HP，通过清除ROS、促进巨噬细胞M2极化、抑制HSCs糖酵解实现协同治疗肝纤维化。
+
+### Paper 3: NLRP3 Inflammasome Inhibition by Xuanfei Baidu Decoction in Silicosis
+- **PMID**: 41754797
+- **期刊**: Pharmaceuticals (2026)
+- **相关性**: ⭐⭐⭐⭐⭐
+- **关键词**: NLRP3, silicosis, Xuanfei Baidu Decoction, TCM, EMT, macrophage
+- **文档**: papers/2026-03-27_03_NLRP3_silicosis.md
+- **主要发现**: 中药方剂XFBD通过抑制NLRP3炎性体减轻矽肺炎症和纤维化，表现出时相特异性（早期抗炎，中晚期抗纤维化），并能逆转EMT。
+
+### Paper 4: Platycodin D3 protects against sepsis-associated ALI via PKM2-NLRP3 axis
+- **PMID**: 41748044
+- **期刊**: Cellular Signalling (2026)
+- **相关性**: ⭐⭐⭐⭐⭐
+- **关键词**: PKM2, NLRP3, sepsis, ALI, metabolism, macrophage
+- **文档**: papers/2026-03-27_04_PKM2_NLRP3_lung.md
+- **主要发现**: PD3直接结合并稳定PKM2，抑制PKM2-NLRP3炎性体轴，恢复巨噬细胞代谢平衡，减轻SI-ALI。
+
+### Paper 5: NETs drive myocardial fibrosis via NF-κB/ferroptosis axis
+- **PMID**: 41607775
+- **期刊**: Frontiers in Immunology (2026)
+- **相关性**: ⭐⭐⭐⭐⭐
+- **关键词**: NETs, ferroptosis, hypertension, myocardial fibrosis, NF-κB
+- **文档**: papers/2026-03-27_05_NETS_ferroptosis.md
+- **主要发现**: NETs通过NF-κB/铁死亡轴驱动高血压心肌纤维化，联合抑制NETs形成、铁死亡和NF-κB可产生最强治疗效果。
+
+---
+
 *本列表每日更新*
