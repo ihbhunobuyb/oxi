@@ -17,6 +17,40 @@
 
 <!-- 每日论文列表将添加在这里 -->
 
+## 2026-03-31 研究的论文（精选5篇）
+
+1. **SLC15A3 plays a crucial role in pulmonary fibrosis by regulating macrophage oxidative stress** - PMID: 38374230
+   - 相关性: ⭐⭐⭐⭐⭐
+   - 关键词: SLC15A3, macrophage, oxidative stress, pulmonary fibrosis, ROS, Nrf2
+   - 文档: papers/2026-03-31_01_slc15a3_pulmonary_fibrosis.md
+   - NotebookLM: N/A (认证失败)
+
+2. **Inhibition of macrophage inflammasome assembly and pyroptosis with GC-1 ameliorates acute lung injury** - PMID: 39990234
+   - 相关性: ⭐⭐⭐⭐⭐
+   - 关键词: inflammasome, pyroptosis, macrophage, GC-1, ALI, NLRP3
+   - 文档: papers/2026-03-31_02_gc1_inflammasome_ali.md
+   - NotebookLM: N/A (认证失败)
+
+3. **Inhibition of OGG1 ameliorates pulmonary fibrosis via preventing M2 macrophage polarization and activating PINK1-mediated mitophagy** - PMID: 38822247
+   - 相关性: ⭐⭐⭐⭐⭐
+   - 关键词: OGG1, M2 macrophage, mitophagy, PINK1, pulmonary fibrosis
+   - 文档: papers/2026-03-31_03_ogg1_pulmonary_fibrosis.md
+   - NotebookLM: N/A (认证失败)
+
+4. **METTL14 downregulation drives S100A4(+) monocyte-derived macrophages via MyD88/NF-κB pathway to promote MAFLD progression** - PMID: 38627387
+   - 相关性: ⭐⭐⭐⭐⭐
+   - 关键词: METTL14, m6A, S100A4, macrophage, MAFLD, NF-κB, liver fibrosis
+   - 文档: papers/2026-03-31_04_mettl14_maflow_fibrosis.md
+   - NotebookLM: N/A (认证失败)
+
+5. **RasGRP4 Exacerbates Diabetic Kidney Fibrosis via Aloxe3-Mediated Oxidative Stress and Scar-Associated Macrophage Activation** - PMID: 40662951
+   - 相关性: ⭐⭐⭐⭐⭐
+   - 关键词: RasGRP4, Aloxe3, diabetic kidney fibrosis, macrophage, ROS
+   - 文档: papers/2026-03-31_05_rasgrp4_diabetic_kidney_fibrosis.md
+   - NotebookLM: N/A (认证失败)
+
+---
+
 ## 模板
 
 ### YYYY-MM-DD 研究的论文（精选5篇）
