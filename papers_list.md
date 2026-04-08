@@ -17,6 +17,35 @@
 
 <!-- 每日论文列表将添加在这里 -->
 
+## 2026-04-09 研究的论文（精选5篇）
+
+1. **Macrophage AMPK activated by oxidative stress drives profibrotic crosstalk with tubular cells to accelerate kidney fibrosis** - PMID: 41621245
+   - 相关性: ⭐⭐⭐⭐⭐
+   - 关键词: AMPK, macrophage, oxidative stress, renal fibrosis, IRI, Arg1+ Macs
+   - 文档: papers/2026-04-09_01_41621245_macrophage_AMPK_renal_fibrosis.md
+
+2. **A Dynamic DNA Nano-Antioxidant Targeting Galectin-3 Attenuates Liver Fibrosis via Reducing Macrophage Oxidative Stress** - PMID: 41168966
+   - 相关性: ⭐⭐⭐⭐⭐
+   - 关键词: DNA nano-antioxidant, Galectin-3, macrophage, liver fibrosis, Nrf2, siRNA
+   - 文档: papers/2026-04-09_02_41168966_DDNA_galectin3_liver_fibrosis.md
+
+3. **Macrophage-targeted black phosphorus nanocomposites inhibit renal fibrosis by disrupting the oxidative stress-inflammation cycle** - PMID: 41016357
+   - 相关性: ⭐⭐⭐⭐⭐
+   - 关键词: black phosphorus, macrophage, renal fibrosis, oxidative stress, inflammation, FK228
+   - 文档: papers/2026-04-09_03_41016357_black_phosphorus_renal_fibrosis.md
+
+4. **Macrophage extracellular traps promote peritoneal fibrosis through the ROS/TGF-β/Smad pathway** - PMID: 41151485
+   - 相关性: ⭐⭐⭐⭐⭐
+   - 关键词: METs, macrophage extracellular traps, peritoneal fibrosis, ROS, TGF-β, MMT
+   - 文档: papers/2026-04-09_04_41151485_macrophage_extracellular_traps_peritoneal_fibrosis.md
+
+5. **Mitigation of ischemia/reperfusion injury via selenium nanoparticles: Suppression of STAT1 to inhibit macrophage oxidative stress** - PMID: 39879840
+   - 相关性: ⭐⭐⭐⭐
+   - 关键词: selenium nanoparticles, STAT1, macrophage, I/RI, oxidative stress, inflammation
+   - 文档: papers/2026-04-09_05_39879840_selenium_nanoparticles_IRI.md
+
+---
+
 ## 2026-03-31 研究的论文（精选5篇）
 
 1. **SLC15A3 plays a crucial role in pulmonary fibrosis by regulating macrophage oxidative stress** - PMID: 38374230
